@@ -1,4 +1,4 @@
-# Проект «Код признания: проект о моём Педагоге»
+# Проект «Код признания: Анна Янковская»
 
 Website project for the oblast digital competition "Digital Portrait of a Master: Chronicle of Women's Success"
 
